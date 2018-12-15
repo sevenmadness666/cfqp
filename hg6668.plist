@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://hg00086.firebaseapp.com/d/a57.png</string>
+					<string>https://apptyqp.firebaseapp.com/a57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://hg00086.firebaseapp.com/d/a512.png</string>
+					<string>https://apptyqp.firebaseapp.com/a512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>天衍棋牌</string>
+				<string>创富棋牌</string>
 			</dict>
 		</dict>
 	</array>
